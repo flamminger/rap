@@ -1,2 +1,3 @@
-# rap
-Repo für VU Projektmanagement
+# RAP  - Researching Alfred Polgar 
+
+das Repo zum Kopfkino
